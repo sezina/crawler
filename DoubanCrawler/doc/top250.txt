@@ -1,0 +1,250 @@
+1|肖申克的救赎 / The Shawshank Redemption|http://movie.douban.com/subject/1292052/|9.5|406587|弗兰克·德拉邦特 Frank Darabont|蒂姆·罗宾斯 Tim Robbins /...|1994|美国|希望让你重获自由。
+2|霸王别姬|http://movie.douban.com/subject/1291546/|9.4|258899|陈凯歌 Kaige Chen|张国荣 Leslie Cheung / 张丰毅 Fengyi Zha...|1993|中国大陆 香港|风华绝代。
+3|这个杀手不太冷 / Léon|http://movie.douban.com/subject/1295644/|9.4|381919|吕克·贝松 Luc Besson|让·雷诺 Jean Reno / 娜塔丽·波特曼 ...|1994|法国|复杂的社会关系里总有绽放如花的感情。
+4|美丽人生 / La vita è bella|http://movie.douban.com/subject/1292063/|9.4|183689|罗伯托·贝尼尼 Roberto Benigni|罗伯托·贝尼尼 Roberto Beni...|1997|意大利|最美的谎言。
+5|阿甘正传 / Forrest Gump|http://movie.douban.com/subject/1292720/|9.3|354875|Robert Zemeckis|Tom Hanks / Robin Wright Penn / Gary Sinise|1994|美国|一部美国近现代史。
+6|海豚湾 / The Cove|http://movie.douban.com/subject/3442220/|9.4|101836|Louie Psihoyos|Joe Chisholm / Mandy-Rae Cruikshank / Charl...|2009|美国|海豚的微笑，是世界上最高明的伪装。
+7|辛德勒的名单 / Schindler's List|http://movie.douban.com/subject/1295124/|9.3|179586|Steven Spielberg|Liam Neeson / Ben Kingsley / Ralph Fiennes|1993|美国|拯救一个人，就是拯救整个世界。
+8|盗梦空间 / Inception|http://movie.douban.com/subject/3541415/|9.2|395123|克里斯托弗·诺兰 Christopher Nolan|莱昂纳多·迪卡普里奥 Le...|2010|美国 英国|卡梅隆负责革新电影技术，诺兰负责革新电影结构。
+9|机器人总动员 / WALL·E|http://movie.douban.com/subject/2131459/|9.2|252017|安德鲁·斯坦顿 Andrew Stanton|本·贝尔特 Ben Burtt / 艾丽...|2008|美国|小瓦力，大人生。
+10|十二怒汉 / 12 Angry Men|http://movie.douban.com/subject/1293182/|9.3|54377|Sidney Lumet|Henry Fonda / Lee J. Cobb / Robert Webber|1957|美国|1957年的理想主义。
+11|教父 / The Godfather|http://movie.douban.com/subject/1291841/|9.2|157232|弗朗西斯·福特·科波拉 Francis Ford Coppola|马龙·白兰度 M...|1972|美国|千万不要记恨你的对手，这样会让你失去理智。
+12|海上钢琴师 / La leggenda del pianista sull'oceano|http://movie.douban.com/subject/1292001/|9.1|309355|朱塞佩·托纳多雷 Giuseppe Tornatore|蒂姆·罗斯 Tim Roth / ...|1998|意大利|每个人都要走一条自己坚定了的路，就算是粉身碎骨。
+13|乱世佳人 / Gone with the Wind|http://movie.douban.com/subject/1300267/|9.2|138329|Victor Fleming / George Cukor|克拉克·盖博 Clark Gable / ...|1939|美国|Tomorrow is another day.
+14|天堂电影院 / Nuovo cinema Paradiso|http://movie.douban.com/subject/1291828/|9.1|152713|朱塞佩·托纳多雷 Giuseppe Tornatore|萨瓦特利·卡西欧 Salva...|1988|意大利 法国|如此美丽，如此悲伤。那些吻戏，那些青春，都在影院的黑暗里被泪水冲刷得无比清晰。
+15|三傻大闹宝莱坞 / 3 Idiots|http://movie.douban.com/subject/3793023/|9.1|294047|拉库马·希拉尼 Rajkumar Hirani|阿米尔·汗 Aamir Khan / 卡...|2009|印度|英俊版憨豆，高情商版谢耳朵。
+16|搏击俱乐部 / Fight Club|http://movie.douban.com/subject/1292000/|9.1|195766|大卫·芬奇 David Fincher|爱德华·诺顿 Edward Norton / 布拉...|1999|美国 德国|邪恶与平庸蛰伏于同一个母体，在特定的时间互相对峙。
+17|放牛班的春天 / Les choristes|http://movie.douban.com/subject/1291549/|9.1|212716|克里斯托夫·巴拉蒂 Christophe Barratier|Gérard Jugnot / F...|2004|法国 德国 瑞士|天籁一般的童声，定是最接近上帝的存在。
+18|龙猫 / となりのトトロ|http://movie.douban.com/subject/1291560/|9.1|192291|宫崎骏 Hayao Miyazaki|日高法子 Noriko Hidaka / 坂本千夏 Ch...|1988|日本|人人心中都有个龙猫，童年就永远不会消失，爱是最美的拥有。
+19|鬼子来了|http://movie.douban.com/subject/1291858/|9.1|98041|姜文 Wen Jiang|姜文 Wen Jiang / 香川照之 Teruyuki Kagawa /...|2000|中国|对敌人的仁慈，就是对自己残忍。
+20|两杆大烟枪 / Lock, Stock and Two Smoking Barrels|http://movie.douban.com/subject/1293350/|9.1|123395|Guy Ritchie|Jason Flemyng / Dexter Fletcher / Nick Moran|1998|英国|4个臭皮匠顶个诸葛亮，盖·里奇果然不是盖的。
+21|千与千寻 / 千と千尋の神隠し|http://movie.douban.com/subject/1291561/|9.0|290711|宫崎骏 Hayao Miyazaki|柊瑠美 Rumi Hîragi / 入野自由 Miy...|2001|日本|最好的宫崎骏，最好的久石让。
+22|忠犬八公的故事 / Hachi: A Dog's Tale|http://movie.douban.com/subject/3011091/|9.0|164332|莱塞·霍尔斯道姆 Lasse Hallström|理查·基尔 Richard Ger...|2009|美国|永远都不能忘记你所爱的人。
+23|小鞋子 / بچههای آسمان|http://movie.douban.com/subject/1303021/|9.1|61301|马基德·马基迪 Majid Majidi|Amir Farrokh Hashemian / 默罕...|1999|伊朗|奔跑的孩子是天使。
+24|大闹天宫|http://movie.douban.com/subject/1418019/|9.2|42154|万籁鸣 Laiming Wan / 唐澄 Cheng  Tang|邱岳峰 Yuefeng Qiu /...|1965 / 2004(纪念版)|中国大陆|经典之作，历久弥新。
+25|窃听风暴 / Das Leben der Anderen|http://movie.douban.com/subject/1900841/|9.0|87788|弗洛里安·亨克尔·冯·多纳斯马 Florian Henckel von Donnersmarck|...|2006|德国|别样人生。
+26|飞越疯人院 / One Flew Over the Cuckoo's Nest|http://movie.douban.com/subject/1292224/|9.0|130391|米洛斯·福尔曼 Miloš Forman|杰克·尼科尔森 Jack Nichols...|1975|美国|自由万岁。
+27|教父2 / The Godfather: Part Ⅱ|http://movie.douban.com/subject/1299131/|9.0|84800|Francis Ford Coppola|Al Pacino / Robert Duvall / Robert De...|1974|美国|优雅的孤独。
+28|触不可及 / Intouchables|http://movie.douban.com/subject/6786002/|9.0|118241|奥利维·那卡什 Olivier Nakache / 艾力克·托兰达 Eric Toledano|主...|2011|法国|满满温情的高雅喜剧。
+29|美国往事 / Once Upon a Time in America|http://movie.douban.com/subject/1292262/|9.0|78533|Sergio Leone|罗伯特·德尼罗 Robert De Niro / 詹姆斯·伍兹 ...|1984|意大利 美国|往事如烟，无处祭奠。
+30|指环王3：王者无敌 / The Lord of the Rings: The Return of the King|http://movie.douban.com/subject/1291552/|9.0|131196|彼得·杰克逊 Peter Jackson|维果·莫腾森 Viggo Mortensen / ...|2003|美国 新西兰 德国|史诗的终章。
+31|七武士 / 七人の侍|http://movie.douban.com/subject/1295399/|9.1|31457|黑泽明|三船敏郎 Toshirô Mifune / 志村乔 Takashi Shimura...|1954|日本|时代悲歌。
+32|泰坦尼克号 / Titanic|http://movie.douban.com/subject/1292722/|8.9|316516|James Cameron|Leonardo DiCaprio / Kate Winslet / Billy Zane|1997|美国|失去的才是永恒的。
+33|西游记大结局之仙履奇缘|http://movie.douban.com/subject/1292213/|8.9|175459|刘镇伟|周星驰 Stephen Chow / 朱茵 Athena Chu / 莫文蔚 Kare...|1995|中国大陆 香港|一生所爱。
+34|玛丽和马克思 / Mary and Max|http://movie.douban.com/subject/3072124/|8.9|135225|Adam Elliot|Toni Collette / Philip Seymour Hoffman / Eric ...|2009|澳大利亚|你是我最好的朋友，你是我唯一的朋友 。
+35|罗马假日 / Roman Holiday|http://movie.douban.com/subject/1293839/|8.9|201670|William Wyler|Audrey Hepburn / Gregory Peck / Eddie Albert|1953|美国|爱情哪怕只有一天。
+36|天空之城 / 天空の城ラピュタ|http://movie.douban.com/subject/1291583/|8.9|155799|宫崎骏 Hayao Miyazaki|田中真弓 Mayumi Tanaka / 鹫尾真知子 ...|1986|日本|对天空的追逐，永不停止。
+37|虎口脱险 / La grande vadrouille|http://movie.douban.com/subject/1296909/|9.0|58116|Gérard Oury|路易·德·菲耐斯 Louis de Funès / 布尔维尔 B...|1966|法国 英国|永远看不腻的喜剧。
+38|楚门的世界 / The Truman Show|http://movie.douban.com/subject/1292064/|8.9|188287|彼得·威尔 Peter Weir|金·凯瑞 Jim Carrey / 劳拉·琳妮 Lau...|1998|美国|如果再也不能见到你，祝你早安，午安，晚安。
+39|被嫌弃的松子的一生 / 嫌われ松子の一生|http://movie.douban.com/subject/1787291/|8.9|90837|中岛哲也 Tetsuya Nakashima|中谷美纪 Miki Nakatani / 瑛太 E...|2006|日本|以戏谑来戏谑戏谑。
+40|上帝之城 / Cidade de Deus|http://movie.douban.com/subject/1292208/|8.9|73770|Fernando Meirelles / Kátia Lund|Alexandre Rodrigues / Mat...|2002|巴西 法国|被上帝抛弃了的上帝之城。
+41|迁徙的鸟 / Le peuple migrateur|http://movie.douban.com/subject/1292281/|9.1|32505|雅克·贝汉 Jacques Perrin / 雅克·克鲁奥德 Jacques Cluzaud|...|2001|法国 德国 意大利 西班牙 瑞士 Switzerland|最美的飞翔。
+42|钢琴家 / The Pianist|http://movie.douban.com/subject/1296736/|8.9|98284|Roman Polanski|Adrien Brody / Thomas Kretschmann / Emilia Fox|2002|法国 德国 英国 波兰|音乐能化解仇恨。
+43|天使爱美丽 / Le fabuleux destin d'Amélie Poulain|http://movie.douban.com/subject/1292215/|8.9|267806|Jean-Pierre Jeunet|奥黛丽·塔图 Audrey Tautou / 马修·卡索...|2001|法国 德国|天真的小孩得到爱的时候，全世界都欢喜。
+44|活着|http://movie.douban.com/subject/1292365/|8.9|112153|张艺谋 Yimou Zhang|葛优 You Ge / 巩俐 Li Gong / 姜武 Wu Jiang|1994|中国 香港|张艺谋最好的电影。
+45|海洋 / Océans|http://movie.douban.com/subject/3443389/|8.9|62393|雅克·贝汉 Jacques Perrin / 雅克·克鲁奥德 Jacques Cluzaud|...|2009|法国 瑞士 西班牙|大海啊，不全是水。
+46|音乐之声 / The Sound of Music|http://movie.douban.com/subject/1294408/|8.9|127479|Robert Wise|Julie Andrews / Christopher Plummer / Richard ...|1965|美国|用音乐化解仇恨，让歌声串起美好。
+47|玩具总动员3 / Toy Story 3|http://movie.douban.com/subject/1858711/|8.9|112038|李·昂克里奇 Lee Unkrich|汤姆·汉克斯 Tom Hanks / 蒂姆·艾...|2010|美国|跨度十五年的欢乐与泪水。
+48|飞屋环游记 / Up|http://movie.douban.com/subject/2129039/|8.8|260855|彼特·道格特 Pete Docter|克里斯托弗·普卢默 Christopher Pl...|2009|美国|最后那些最无聊的事情，才是我最怀念的。
+49|闻香识女人 / Scent of a Woman|http://movie.douban.com/subject/1298624/|8.8|154216|Martin Brest|Al Pacino / Chris O'Donnell / James Rebhorn|1992|美国|史上最美的探戈。
+50|一一|http://movie.douban.com/subject/1292434/|8.9|73028|杨德昌|吴念真 / 李凯莉 / 金燕玲|2000|台湾 日本|我们都曾经是一一。
+51|指环王2：双塔奇兵 / The Lord of the Rings: The Two Towers|http://movie.douban.com/subject/1291572/|8.8|123881|彼得·杰克逊 Peter Jackson|伊利亚·伍德 Elijah Wood / 西恩...|2002|美国 新西兰 德国|跟书一样壮观。
+52|怦然心动 / Flipped|http://movie.douban.com/subject/3319755/|8.8|209749|罗伯·莱纳 Rob Reiner|玛德琳·卡罗尔 Madeline Carroll / 卡...|2010|美国|真正的幸福是来自内心深处。
+53|蝙蝠侠：黑暗骑士 / The Dark Knight|http://movie.douban.com/subject/1851857/|8.8|132945|克里斯托弗·诺兰 Christopher Nolan|克里斯蒂安·贝尔 Christ...|2008|美国 英国|无尽的黑暗。
+54|西游记第一百零一回之月光宝盒|http://movie.douban.com/subject/1299398/|8.8|152288|刘镇伟 Jeffrey Lau|周星驰 Stephen Chow / 吴孟达 Man Tat Ng...|1995|香港 中国大陆|旷古烁今。
+55|当幸福来敲门 / The Pursuit of Happyness|http://movie.douban.com/subject/1849031/|8.8|271935|加布里尔·穆奇诺 Gabriele Muccino|威尔·史密斯 Will Smith ...|2006|美国|总会找到一个上帝，端坐天堂。
+56|雨中曲 / Singin' in the Rain|http://movie.douban.com/subject/1293460/|8.9|43860|Stanley Donen / Gene Kelly|Gene Kelly / Donald O'Connor / ...|1952|美国|骨灰级歌舞片。
+57|指环王1：魔戒再现 / The Lord of the Rings: The Fellowship of the Ring|http://movie.douban.com/subject/1291571/|8.8|139668|彼得·杰克逊 Peter Jackson|伊利亚·伍德 Elijah Wood / 西恩...|2001|新西兰 美国|传说的开始。
+58|让子弹飞|http://movie.douban.com/subject/3742360/|8.8|354873|姜文 Wen Jiang|姜文 Wen Jiang / 葛优 You Ge / 周润发 Yun-F...|2010|中国大陆|你给我翻译翻译，神马叫做TMD的惊喜。
+59|美丽心灵 / A Beautiful Mind|http://movie.douban.com/subject/1306029/|8.8|146291|朗·霍华德 Ron Howard|罗素·克劳 Russell Crowe / 詹妮弗·...|2001|美国|爱是一切逻辑和原由。
+60|死亡诗社 / Dead Poets Society|http://movie.douban.com/subject/1291548/|8.8|128868|彼德·威尔 Peter Weir|罗宾·威廉姆斯 Robin Williams / 伊桑...|1989|美国|当一个死水般的体制内出现一个活跃的变数时，所有的腐臭都站在了光明的对面。
+61|阳光姐妹淘 / 써니|http://movie.douban.com/subject/4917726/|8.8|91101|姜炯哲 Hyeong-Cheol Kang|沈恩京 Eun-kyung Shim / 闵孝琳 Hy...|2011|韩国|再多各自牛逼的时光，也比不上一起傻逼的岁月。
+62|低俗小说 / Pulp Fiction|http://movie.douban.com/subject/1291832/|8.8|150620|昆汀·塔伦蒂诺 Quentin Tarantino|乌玛·瑟曼 Uma Thurman / ...|1994|美国|故事的高级讲法。
+63|你看起来好像很好吃 / おまえうまそうだな|http://movie.douban.com/subject/4848115/|8.8|86297|藤森雅也|山口胜平 Kappei Yamaguchi / 加藤清史郎 Seishir...|2010|日本|感情不分食草或者食肉。
+64|情书 / Love Letter|http://movie.douban.com/subject/1292220/|8.7|191217|岩井俊二 Shunji Iwai|中山美穗 Miho Nakayama / 酒井美纪 Mik...|1995|日本|暗恋的极致。
+65|七宗罪 / Se7en|http://movie.douban.com/subject/1292223/|8.7|225519|David Fincher|Brad Pitt / Morgan Freeman / Kevin Spacey|1995|美国|警察抓小偷，老鼠玩死猫。
+66|无间道 / 無間道|http://movie.douban.com/subject/1307914/|8.7|175688|刘伟强 / 麦兆辉|刘德华 / 梁朝伟 / 黄秋生|2002|香港|香港电影史上永不过时的杰作。
+67|萤火虫之墓 / 火垂るの墓|http://movie.douban.com/subject/1293318/|8.8|107997|高畑勋 Isao Takahata|辰己努 / 白石绫乃 / 志乃原良子|1988|日本|幸福是生生不息，却难以触及的远。
+68|大鱼 / Big Fish|http://movie.douban.com/subject/1291545/|8.7|124094|Tim Burton|Ewan McGregor / Albert Finney / Billy Crudup|2003|美国|抱着梦想而活着的人是幸福的，怀抱梦想而死去的人是不朽的。
+69|勇敢的心 / Braveheart|http://movie.douban.com/subject/1294639/|8.7|170737|梅尔·吉布森 Mel Gibson|梅尔·吉布森 Mel Gibson / 苏菲·玛...|1995|美国|史诗大片的典范。
+70|菊次郎的夏天 / 菊次郎の夏|http://movie.douban.com/subject/1293359/|8.8|82156|北野武|北野武 / 岸本加世子 / 吉行和子|1999|日本|从没见过那么流氓的温柔，从没见过那么温柔的流氓。
+71|狮子王 / The Lion King|http://movie.douban.com/subject/1301753/|8.7|152498|Roger Allers / 罗伯·明可夫 Rob Minkoff|乔纳森·泰勒·托马...|1994|美国|动物版《哈姆雷特》。
+72|饮食男女 / 飲食男女|http://movie.douban.com/subject/1291818/|8.8|54942|李安 Ang Lee|吴倩莲 Chien-lien Wu / 杨贵媚 Kuei-Mei Yang /...|1994|台湾 美国|人生不能像做菜，把所有的料都准备好了才下锅。
+73|阳光灿烂的日子|http://movie.douban.com/subject/1291875/|8.7|137941|姜文 Wen Jiang|夏雨 Yu Xia / 宁静 Jing Ning / 陶虹 Hong Tao|1994|中国 香港|一场华丽的意淫。
+74|剪刀手爱德华 / Edward Scissorhands|http://movie.douban.com/subject/1292370/|8.7|258117|Tim Burton|Johnny Depp / Winona Ryder / Anthony Michael Hall|1990|美国|浪漫忧郁的成人童话。
+75|阿凡达 / Avatar|http://movie.douban.com/subject/1652587/|8.7|306793|James Cameron|Sam Worthington / Zoe Saldana / Sigourney We...|2009|美国 英国|James Cameron闭上眼，全是电影的明天。
+76|入殓师 / おくりびと|http://movie.douban.com/subject/2149806/|8.7|174930|泷田洋二郎 Yôjirô Takita|本木雅弘 Masahiro Motoki / ...|2008|日本|死可能是一道门，逝去并不是终结，而是超越，走向下一程。
+77|致命魔术 / The Prestige|http://movie.douban.com/subject/1780330/|8.7|151043|克里斯托弗·诺兰 Christopher Nolan|克里斯蒂安·贝尔 Christ...|2006|美国 英国|孪生蝙蝠侠大战克隆金刚狼。
+78|燃情岁月 / Legends of the Fall|http://movie.douban.com/subject/1295865/|8.7|86121|爱德华·兹威克 Edward Zwick|安东尼·霍普金斯 Anthony Hopki...|1994|美国|传奇，不是每个人都可以拥有。
+79|幽灵公主 / もののけ姫|http://movie.douban.com/subject/1297359/|8.7|119663|宫崎骏|松田洋治 / 石田百合子 / 田中裕子|1997|日本|人与自然的战争史诗。
+80|梦之安魂曲 / Requiem for a Dream|http://movie.douban.com/subject/1292270/|8.8|44005|达伦·阿伦诺夫斯基 Darren Aronofsky|艾伦·伯斯汀 Ellen Bur...|2000|美国|一场没有春天的噩梦。
+81|再见我们的幼儿园 / さよならぼくたちのようちえん|http://movie.douban.com/subject/5960606/|8.8|56110|水田伸生 Nobuo Mizuta|桥本智哉 Tomoya Hashimoto / 本田望结...|2011|日本|萌点、泪点全中。
+82|我是山姆 / I Am Sam|http://movie.douban.com/subject/1306861/|8.8|45202|杰茜·尼尔森 Jessie Nelson|Sean Penn / Dakota Fanning / Mi...|2001|美国|爱并不需要智商 。
+83|第六感 / The Sixth Sense|http://movie.douban.com/subject/1297630/|8.7|112688|M. Night Shyamalan|Bruce Willis / Haley Joel Osment / Toni...|1999|美国|出人意料的结局，深入内心的恐怖。
+84|拯救大兵瑞恩 / Saving Private Ryan|http://movie.douban.com/subject/1292849/|8.7|111171|史蒂文·斯皮尔伯格 Steven Spielberg|汤姆·汉克斯 Tom Hanks...|1998|美国|美利坚精神输出大片No1.
+85|一次别离 / جدایی نادر از سیمین|http://movie.douban.com/subject/5964718/|8.8|34457|阿斯哈·法哈蒂  Asghar Farhadi|蕾拉·哈塔米 Leila Hatami /...|2011|伊朗|只有有信仰的人才能说出事实真相。
+86|碧海蓝天 / Le grand bleu|http://movie.douban.com/subject/1300960/|8.7|68629|Luc Besson|Jean-Marc Barr / Jean Reno / Rosanna Arquette|1988|法国 美国 意大利|在那片深蓝中，感受来自大海的忧伤寂寞与美丽自由。
+87|驯龙高手 / How to Train Your Dragon|http://movie.douban.com/subject/2353023/|8.7|126721|Dean DeBlois / Chris Sanders|Jay Baruchel / Gerard Butler ...|2010|美国|和谐的生活离不开摸头与被摸头。
+88|射雕英雄传之东成西就|http://movie.douban.com/subject/1316510/|8.7|129748|刘镇伟 Jeffrey Lau|梁朝伟 Tony Leung Chiu Wai / 张国荣 Les...|1993|香港|百看不厌。
+89|魂断蓝桥 / Waterloo Bridge|http://movie.douban.com/subject/1293964/|8.7|76933|Mervyn LeRoy|Vivien Leigh / Robert Taylor / Lucile Watson|1940|美国|中国式内在的美国电影。
+90|就是这样 / This Is It|http://movie.douban.com/subject/3920977/|8.7|60857|Kenny Ortega|Michael Jackson / Alex Al / Nick Bass|2009|美国|这部电影可能让你作为伪粉丝进影厅，看完后就成了真粉丝。
+91|海盗电台 / The Boat That Rocked|http://movie.douban.com/subject/3007773/|8.7|93845|Richard Curtis|Bill Nighy / Kenneth Branagh / Philip Seymo...|2009|英国 德国 美国 法国|生命不止，摇滚不死。
+92|爱在黎明破晓前 / Before Sunrise|http://movie.douban.com/subject/1296339/|8.7|83141|理查德·林克莱特 Richard Linklater|伊桑·霍克 Ethan Hawke ...|1995|美国 奥地利 瑞士|缘分是个连绵词，最美不过一瞬。
+93|勇士 / Warrior|http://movie.douban.com/subject/3217169/|8.8|36987|加文·欧康诺 Gavin O'Connor|汤姆·哈迪 Tom Hardy / 乔尔·...|2011|美国|热血沸腾，相当完美的娱乐拳击大餐。
+94|爱在日落黄昏时 / Before Sunset|http://movie.douban.com/subject/1291990/|8.7|83913|理查德·林克莱特 Richard Linklater|伊桑·霍克 Ethan Hawke ...|2004|美国|盛筵之后，泪流满面。
+95|黑客帝国 / The Matrix|http://movie.douban.com/subject/1291843/|8.7|129713|安迪·沃卓斯基 Andy Wachowski / 拉娜·沃卓斯基 Lana Wachowski|主...|1999|美国 澳大利亚|视觉革命。
+96|超脱 / Detachment|http://movie.douban.com/subject/5322596/|8.7|54708|托尼·凯耶 Tony Kaye|艾德里安·布洛迪 Adrien Brody / 克里...|2012|美国|穷尽一生，我们要学会的，不过是彼此拥抱。
+97|卢旺达饭店 / Hotel Rwanda|http://movie.douban.com/subject/1291822/|8.7|48044|特瑞·乔治 Terry George|唐·钱德尔 Don Cheadle / Desmond D...|2004|英国 南非 意大利 美国|当这个世界闭上双眼，他却敞开了怀抱。
+98|哈利·波特与死亡圣器(下) / Harry Potter and the Deathly Hallows: Part 2|http://movie.douban.com/subject/3011235/|8.6|146768|大卫·叶茨 David Yates|丹尼尔·雷德克里夫 Daniel Radcliffe...|2011|英国 美国|10年的完美句点。
+99|风之谷 / 風の谷のナウシカ|http://movie.douban.com/subject/1291585/|8.7|87545|宫崎骏 Hayao Miyazaki|岛本须美 Sumi Shimamoto / 京田尚子 H...|1984|日本|动画片的圣经。
+100|与狼共舞 / Dances with Wolves|http://movie.douban.com/subject/1293764/|8.8|32389|Kevin Costner|Kevin Costner / Mary McDonnell / Graham Greene|1990|美国|充满诗意与情怀的史诗作品。
+101|浪潮 / Die Welle|http://movie.douban.com/subject/2297265/|8.7|47458|丹尼斯·甘塞尔 Dennis Gansel|约根·沃格尔 Jürgen Vogel / ...|2008|德国|世界离独裁只有五天。
+102|侧耳倾听 / 耳をすませば|http://movie.douban.com/subject/1297052/|8.7|76289|近藤喜文|本名阳子 / 小林桂树 / 高山南|1995|日本|少女情怀总是诗。
+103|荒野生存 / Into the Wild|http://movie.douban.com/subject/1905462/|8.7|66840|西恩·潘 Sean Penn|埃米尔·赫斯基 Emile Hirsch / 马西娅·...|2007|美国|出门必备：本草纲目。
+104|猜火车 / Trainspotting|http://movie.douban.com/subject/1292528/|8.6|138403|丹尼·鲍尔 Danny Boyle|伊万·麦克格雷格 Ewan McGregor / 艾...|1996|英国|不可猜的青春迷笛。
+105|穿越时空的少女 / 時をかける少女|http://movie.douban.com/subject/1937946/|8.6|83521|细田守 Mamoru Hosoda|仲里依纱 Riisa Naka / 石田卓也 Takuya...|2006|日本|爱上未来的你。
+106|告白|http://movie.douban.com/subject/4268598/|8.6|150877|中岛哲也 Tetsuya Nakashima|松隆子 Takako Matsu / 冈田将生 ...|2010|日本|没有一人完全善，也没有一人完全恶。
+107|疯狂约会美丽都 / Les triplettes de Belleville|http://movie.douban.com/subject/1291565/|8.8|30900|西维亚·乔迈 Sylvain Chomet|Béatrice Bonifassi / Lina Bou...|2003|法国 比利时 加拿大 英国|一切都没有变，只是你不在我身边。
+108|沉默的羔羊 / The Silence of the Lambs|http://movie.douban.com/subject/1293544/|8.6|170506|Jonathan Demme|Jodie Foster / Anthony Hopkins / Scott Glenn|1991|美国|安东尼·霍普金斯的顶级表演。
+109|哪吒闹海|http://movie.douban.com/subject/1307315/|8.7|40571|严定宪 Dingxian Yan / 王树忱 Shuchen Wang|梁正晖 / 邱岳峰 ...|1979|中国|想你时你在闹海。
+110|罗生门 / 羅生門|http://movie.douban.com/subject/1291879/|8.7|53113|黑泽明 Akira Kurosawa|三船敏郎 Toshirô Mifune / 千秋实 ...|1950|日本|人生的N种可能性。
+111|重庆森林 / 重慶森林|http://movie.douban.com/subject/1291999/|8.6|148463|王家卫 Kar Wai Wong|林青霞 Brigitte Lin / 金城武 Takeshi K...|1994|香港|寂寞没有期限。
+112|蝴蝶效应 / The Butterfly Effect|http://movie.douban.com/subject/1292343/|8.6|192085|埃里克.布雷斯 Eric Bress / J. Mackye Gruber|阿什顿·库彻 A...|2004|美国|人的命运被自己瞬间的抉择改变。
+113|心灵捕手 / Good Will Hunting|http://movie.douban.com/subject/1292656/|8.6|118518|格斯·范·桑特 Gus Van Sant|马特·达蒙 Matt Damon / 罗宾·...|1998|美国|人生中应该拥有这样的一段豁然开朗。
+114|穿条纹睡衣的男孩 / The Boy in the Striped Pajamas|http://movie.douban.com/subject/3008247/|8.7|47837|Mark Herman|大卫·休里斯 David Thewlis / 维拉·法米加 Vera...|2008|英国 美国|尽管有些不切实际的幻想，这部电影依旧是一部感人肺腑的佳作。
+115|V字仇杀队 / V for Vendetta|http://movie.douban.com/subject/1309046/|8.6|124325|詹姆斯·麦克特格 James McTeigue|娜塔丽·波曼 Natalie Portm...|2006|美国 英国 德国|一张面具背后的理想与革命。
+116|燕尾蝶 / スワロウテイル|http://movie.douban.com/subject/1307793/|8.6|68215|岩井俊二 Shunji Iwai|三上博史 / 恰拉 / 伊藤步|1996|日本|现实与童话交相辉映的旅程。
+117|甜蜜蜜|http://movie.douban.com/subject/1305164/|8.6|114904|陈可辛|黎明 / 张曼玉 / 杨恭如|1996|香港|逢只要一瞬间，等待却像是一辈子。
+118|小淘气尼古拉 / Le petit Nicolas|http://movie.douban.com/subject/3157605/|8.7|56586|Laurent Tirard|马克西姆·戈达尔 Maxime Godart / 瓦莱丽·勒...|2009|法国 比利时|四百击的反面。
+119|春光乍泄 / 春光乍洩|http://movie.douban.com/subject/1292679/|8.6|105124|王家卫|梁朝伟 / 张国荣 / 张震|1997|香港|爱情纠缠，男女一致。
+120|哈尔的移动城堡 / ハウルの動く城|http://movie.douban.com/subject/1308807/|8.6|160541|宫崎骏 Hayao Miyazaki|倍赏千惠子 Chieko Baishô / 木村拓...|2004|日本|带着心爱的人在天空飞翔。
+121|中央车站 / Central do Brasil|http://movie.douban.com/subject/1292218/|8.7|43804|Walter Salles|Fernanda Montenegro / Marília Pêra / Viní...|1998|巴西 法国|心灵救赎。
+122|借东西的小人阿莉埃蒂 / 借りぐらしのアリエッティ|http://movie.douban.com/subject/4202302/|8.6|98045|米林宏昌 Hiromasa Yonebayashi|志田未来 Mirai Shida / 神木...|2010|日本|曾经的那段美好会沉淀为一辈子的记忆。
+123|跳出我天地 / Billy Elliot|http://movie.douban.com/subject/1301169/|8.7|32212|Stephen Daldry|Jamie Bell / Julie Walters / Gary Lewis|2000|英国 法国|家人的爱，是自己所能拥有的最大的财富。
+124|教父3 / The Godfather: Part III|http://movie.douban.com/subject/1294240/|8.6|59286|Francis Ford Coppola|阿尔·帕西诺 Al Pacino / 黛安·基顿 D...|1990|美国|任何信念的力量，都无法改变命运。
+125|谍影重重3 / The Bourne Ultimatum|http://movie.douban.com/subject/1578507/|8.6|83950|保罗·格林格拉斯 Paul Greengrass|马特·达蒙 Matt Damon / ...|2007|美国 德国|像吃了苏打饼一样干脆的电影。
+126|叫我第一名 / Front of the Class|http://movie.douban.com/subject/4798888/|8.7|44476|Peter Werner|詹姆斯·沃克 James Wolk / 特里特·威廉斯 Trea...|2008|美国|乐观比一切都有力量。
+127|岁月神偷|http://movie.douban.com/subject/3792799/|8.6|162749|罗启锐 Alex Law|吴君如 Sandra Ng / 任达华 Simon Yam / 钟绍...|2010|香港 中国大陆|岁月流逝，来日可追。
+128|再见列宁 / Good Bye Lenin!|http://movie.douban.com/subject/1292055/|8.7|34744|沃尔夫冈·贝克  Wolfgang Becker|丹尼尔·布鲁赫 Daniel Brü...|2003|德国|一个伟大的谎言成就了一个伟大的理想。
+129|英雄本色|http://movie.douban.com/subject/1297574/|8.6|61943|吴宇森 John Woo|周润发 Yun-Fat Chow / 狄龙 Lung Ti / 张国...|1986|香港|英雄泪短，兄弟情长。
+130|纵横四海 / 緃横四海|http://movie.douban.com/subject/1295409/|8.6|61155|吴宇森|周润发 / 张国荣 / 钟楚红|1991|香港|香港浪漫主义警匪动作片的巅峰之作。
+131|牯岭街少年杀人事件 / 牯嶺街少年殺人事件|http://movie.douban.com/subject/1292329/|8.7|41938|杨德昌|张震 / 杨静怡 / 张国柱|1991|台湾|弱者送给弱者的一刀。
+132|撞车 / Crash|http://movie.douban.com/subject/1388216/|8.6|95727|保罗·哈吉斯 Paul Haggis|桑德拉·布洛克 Sandra Bullock / ...|2005|美国 德国|天使与魔鬼的冲撞。
+133|电锯惊魂 / Saw|http://movie.douban.com/subject/1417598/|8.6|98613|詹姆斯·温 James Wan|雷·沃纳尔 Leigh Whannell / 加利·艾...|2004|美国 澳大利亚|真相就在眼前。
+134|本杰明·巴顿奇事 / The Curious Case of Benjamin Button|http://movie.douban.com/subject/1485260/|8.5|207545|大卫·芬奇 David Fincher|布拉德·皮特 Brad Pitt / 凯特·布...|2008|美国|在时间之河里感受溺水之苦。
+135|真爱至上 / Love Actually|http://movie.douban.com/subject/1292401/|8.5|161891|理查德·柯蒂斯 Richard Curtis|休·格兰特 Hugh Grant / 柯林...|2003|英国 美国|爱，是个动词。
+136|绿里奇迹 / The Green Mile|http://movie.douban.com/subject/1300374/|8.6|54539|Frank Darabont|Tom Hanks / David Morse / Michael Clarke Du...|1999|美国|天使暂时离开。
+137|天伦之旅 / Everybody's Fine|http://movie.douban.com/subject/3041749/|8.6|39684|柯克·琼斯 Kirk Jones|罗伯特·德尼罗 Robert De Niro / 凯特...|2009|美国 意大利|幸福窝天伦。
+138|莫扎特传 / Amadeus|http://movie.douban.com/subject/1293399/|8.6|39407|Milos Forman|Tom Hulce / F. Murray Abraham / Elizabeth Ber...|1984|美国|上帝的宠儿。
+139|红辣椒 / パプリカ|http://movie.douban.com/subject/1865703/|8.6|41271|今敏 Satoshi Kon|林原惠美 Megumi Hayashibara / 古谷彻 T...|2006|日本|梦的勾结。
+140|西西里的美丽传说 / Malèna|http://movie.douban.com/subject/1292402/|8.5|147320|朱塞佩·托纳多雷 Giuseppe Tornatore|莫妮卡·贝鲁奇 Monica ...|2000|意大利 美国|美丽无罪。
+141|我在伊朗长大 / Persepolis|http://movie.douban.com/subject/1962116/|8.7|36118|文森特·帕兰德 Vincent Paronnaud / 玛嘉·莎塔琵 Marjane Satrapi|...|2007|法国 美国|像自由一样美丽。
+142|上帝也疯狂 / The Gods Must Be Crazy|http://movie.douban.com/subject/1297478/|8.6|48630|Jamie Uys|Marius Weyers / Sandra Prinsloo / N!xau|1981|博茨瓦纳 南非|纯净原始的笑与感动。
+143|蓝白红三部曲之红 / Trois couleurs: Rouge|http://movie.douban.com/subject/1292047/|8.7|33313|克日什托夫·基耶斯洛夫斯基 Krzysztof Kieslowski|伊莲娜·雅...|1994|法国 波兰 瑞士|最接近人道精神的是博爱。
+144|卡萨布兰卡 / Casablanca|http://movie.douban.com/subject/1296753/|8.6|65074|Michael Curtiz|Humphrey Bogart / Ingrid Bergman / Paul Hen...|1942|美国|与同名歌曲无关。
+145|记忆碎片 / Memento|http://movie.douban.com/subject/1304447/|8.5|132555|Christopher Nolan|Guy Pearce / Carrie-Anne Moss / Joe Pant...|2000|美国|一个针管引发的血案。
+146|人工智能 / Artificial Intelligence: AI|http://movie.douban.com/subject/1302827/|8.5|92793|Steven Spielberg|Haley Joel Osment / Frances O'Connor / Sa...|2001|美国|对爱的执着，可以超越一切。
+147|喜宴|http://movie.douban.com/subject/1303037/|8.6|46633|李安|赵文瑄 / 归亚蕾 / 金素梅|1993|台湾 美国|中国家庭的喜怒哀乐忍。
+148|雨人 / Rain Man|http://movie.douban.com/subject/1291870/|8.5|108320|巴瑞·莱文森 Barry Levinson|达斯汀·霍夫曼 Dustin Hoffman ...|1988|美国|生活在自己的世界里，也可以让周围的人显得可笑和渺小。
+149|杀人回忆 / 살인의 추억|http://movie.douban.com/subject/1300299/|8.6|55939|奉俊昊 Joon-ho Bong|宋康昊 Kang-ho Song / 金相庆 Sang-kyun...|2003|韩国|关于连环杀人悬案的集体回忆。
+150|秒速五厘米 / 秒速5センチメートル|http://movie.douban.com/subject/2043546/|8.5|122755|新海诚 Makoto Shinkai|水桥研二 Kenji Mizuhashi / 近藤好美 ...|2007|日本|青春就是放弃和怀念。
+151|东邪西毒 / 東邪西毒|http://movie.douban.com/subject/1292328/|8.5|134398|王家卫 Kar Wai Wong|张国荣 Leslie Cheung / 张曼玉 Maggie C...|1994|中国大陆 香港 台湾|电影诗。
+152|不一样的天空 / What's Eating Gilbert Grape|http://movie.douban.com/subject/1301617/|8.6|34453|Lasse Hallström|Johnny Depp / Leonardo DiCaprio / Julie...|1993|美国|生命有裂缝，阳光才照得进来。
+153|小情人 / แฟนฉัน|http://movie.douban.com/subject/1394488/|8.6|33719|Vitcha Gojiew / 松耀司·舒克马卡纳尼 Songyos Sugmakanan|查...|2004|泰国|若有所失的童年。
+154|对她说 / Hable con ella|http://movie.douban.com/subject/1292211/|8.6|34520|Pedro Almodóvar|Javier Cámara / Darío Grandinetti / Leo...|2002|西班牙|令人心碎的单恋，令人心痛的觉醒。
+155|麦兜故事 / 麥兜故事|http://movie.douban.com/subject/1302476/|8.5|75255|袁建滔 Toe Yuen|李晋纬 / 林海峰 Jan Lamb / 吴君如 Sandra Ng|2001|香港|麦兜是一只很哲学的猪。
+156|蝴蝶 / Le papillon|http://movie.douban.com/subject/1292056/|8.5|57224|菲利普·穆伊尔 Philippe Muyl|米歇尔·塞罗 Michel Serrault ...|2002|法国|我们长途跋涉寻找的东西，有可能一直就在身边。
+157|可可西里|http://movie.douban.com/subject/1308857/|8.5|68946|陆川 Chuan Lu|多布杰 Duobujie / 张磊 Lei Zhang / 亓亮|2004|中国大陆 香港|坚硬的信仰。
+158|穆赫兰道 / Mulholland Dr.|http://movie.douban.com/subject/1292217/|8.5|107623|David Lynch|Naomi Watts / Laura Harring / Ann Miller|2001|法国 美国|大卫·林奇的梦境迷宫。
+159|我们俩|http://movie.douban.com/subject/1756073/|8.5|44045|马俪文 Liwen Ma|宫哲 Zhe Gong / 金雅琴 Yaqin Jin / 罗忠学|2005|中国大陆|想外婆了，有没有？！
+160|E.T. 外星人 / E.T.: The Extra-Terrestrial|http://movie.douban.com/subject/1294638/|8.5|79466|Steven Spielberg|Henry Thomas / Dee Wallace / Robert MacNa...|1982|美国|生病的E.T.皮肤的颜色就像柿子饼。
+161|布达佩斯之恋 / Gloomy Sunday - Ein Lied von Liebe und Tod|http://movie.douban.com/subject/1301106/|8.6|37508|Rolf Schübel|Erika Marozsán / Joachim Król / Stefano Di...|1999|德国 匈牙利|甜蜜忧伤一曲难唱。
+162|买凶拍人 / 買兇拍人|http://movie.douban.com/subject/1300616/|8.5|53045|彭浩翔|葛民辉 / 张达明 / 詹瑞文|2001|香港|一堆贱人组合的化学反应。
+163|非常嫌疑犯 / The Usual Suspects|http://movie.douban.com/subject/1292214/|8.5|51995|布莱恩·辛格 Bryan Singer|Kevin Spacey / Stephen Baldwin /...|1995|德国 美国|我不信仰上帝，但我敬畏上帝。
+164|末路狂花 / Thelma & Louise|http://movie.douban.com/subject/1291992/|8.5|42888|雷德利·斯科特 Ridley Scott|吉娜·戴维斯 Geena Davis / 苏...|1991|美国 法国|
+165|贫民窟的百万富翁 / Slumdog Millionaire|http://movie.douban.com/subject/2209573/|8.4|235929|丹尼·鲍尔 Danny Boyle / 洛芙琳·坦丹 Loveleen Tandan|戴夫...|2009|英国|上帝之城+猜火车+阿甘正传+开心辞典=山寨富翁
+166|罪恶之城 / Sin City|http://movie.douban.com/subject/1309027/|8.5|81425|弗兰克·米勒 Frank Miller / 罗伯特·罗德里格兹 Robert Rodriguez|...|2005|美国|权力不是来自枪和子弹，权力来自谎言。
+167|黑天鹅 / Black Swan|http://movie.douban.com/subject/1978709/|8.4|224643|达伦·阿罗诺夫斯基 Darren Aronofsky|娜塔丽·波曼 Natalie P...|2010|美国|黑暗之美。
+168|恋恋笔记本 / The Notebook|http://movie.douban.com/subject/1309163/|8.4|126656|尼克·卡索维茨 Nick Cassavetes|瑞恩·高斯林 Ryan Gosling /...|2004|美国 葡萄牙|爱情没有那么多借口，如果不能圆满，只能说明爱的不够。
+169|朗读者 / The Reader|http://movie.douban.com/subject/2213597/|8.4|168287|史蒂芬·戴德利 Stephen Daldry|Kate Winslet / David Kross /...|2008|美国 德国|当爱情跨越年龄的界限，它似乎能变得更久远一点，成为一种责任，一种水到渠成的相濡以沫。
+170|致命ID / Identity|http://movie.douban.com/subject/1297192/|8.4|134271|James Mangold|John Cusack / Ray Liotta / Amanda Peet|2003|美国|最不可能的那个人永远是最可能的。
+171|两小无猜 / Jeux d'enfants|http://movie.douban.com/subject/1308817/|8.4|176652|杨·塞谬尔 Yann Samuell|吉约姆·卡内 Guillaume Canet / 玛...|2003|法国 比利时|Love me, if you dare.
+172|末代皇帝 / The Last Emperor|http://movie.douban.com/subject/1293172/|8.5|55258|Bernardo Bertolucci|尊龙 John Lone / 陈冲 Joan Chen / 彼德...|1987|意大利 中国 英国 法国|
+173|茜茜公主 / Sissi|http://movie.douban.com/subject/1304056/|8.5|49243|恩斯特·马利斯卡 Ernst Marischka|Romy Schneider / Karlhein...|1955|奥地利|每个女孩都有个公主梦。
+174|偷拐抢骗 / Snatch|http://movie.douban.com/subject/1301171/|8.5|51823|盖·里奇 Guy Ritchie|布拉德·皮特 Brad Pitt / 本尼西奥·德...|2000|英国 美国|
+175|暖暖内含光 / Eternal Sunshine of the Spotless Mind|http://movie.douban.com/subject/1308777/|8.4|75223|Michel Gondry|金·凯瑞 Jim Carrey / 凯特·温丝莱特 Kate Wi...|2004|美国|恋爱是一次神经的冒险。就算失去记忆，也会爱上你。
+176|勇闯夺命岛 / The Rock|http://movie.douban.com/subject/1292728/|8.4|77226|Michael Bay|Sean Connery / Nicolas Cage / Ed Harris|1996|美国|类型片的极致。
+177|发条橙 / A Clockwork Orange|http://movie.douban.com/subject/1292233/|8.4|94232|Stanley Kubrick|Malcolm McDowell / Patrick Magee / Michael...|1971|英国 美国|我完全康复了。
+178|加勒比海盗 / Pirates of the Caribbean: The Curse of the Black Pearl|http://movie.douban.com/subject/1298070/|8.4|168114|戈尔·维宾斯基 Gore Verbinski|约翰尼·德普 Johnny Depp / ...|2003|美国|约翰尼·德普的独角戏。
+179|幸福终点站 / The Terminal|http://movie.douban.com/subject/1292274/|8.4|119095|史蒂文·斯皮尔伯格 Steven Spielberg|汤姆·汉克斯 Tom Hanks...|2004|美国|有时候幸福需要等一等。
+180|洛城机密 / L.A. Confidential|http://movie.douban.com/subject/1292348/|8.5|37649|柯蒂斯·汉森 Curtis Hanson|凯文·史派西 Kevin Spacey / 罗...|1997|美国|
+181|终结者2 / Terminator 2: Judgment Day|http://movie.douban.com/subject/1291844/|8.4|67969|詹姆斯·卡梅隆 James Cameron|阿诺·施瓦辛格 Arnold Schwarz...|1991|美国 法国|
+182|2001太空漫游 / 2001: A Space Odyssey|http://movie.douban.com/subject/1292226/|8.5|32506|Stanley Kubrick|Keir Dullea / Gary Lockwood / William Sylv...|1968|美国 英国|
+183|战争之王 / Lord of War|http://movie.douban.com/subject/1419936/|8.4|87728|Andrew Niccol|Nicolas Cage / Ethan Hawke / Jared Leto|2005|美国 法国|做一颗让别人需要你的棋子。
+184|蓝白红三部曲之蓝 / Trois couleurs: Bleu|http://movie.douban.com/subject/1292048/|8.5|39516|克日什托夫·基耶斯洛夫斯基 Krzysztof Kieslowski|朱丽叶·比...|1993|法国 波兰 瑞士|有些失去总令人念念不忘。
+185|恶童 / 鉄コン筋クリート|http://movie.douban.com/subject/1848925/|8.5|30417|Michael Arias|二宫和也 Kazunari Ninomiya / 苍井优 Yu Aoi /...|2006|日本|坏孩子的天空。
+186|阿飞正传|http://movie.douban.com/subject/1305690/|8.4|74298|王家卫|张国荣 / 张曼玉 / 刘嘉玲|1990|香港|
+187|她比烟花寂寞 / Hilary and Jackie|http://movie.douban.com/subject/1293708/|8.4|66985|Anand Tucker|Emily Watson / Rachel Griffiths / James Frain|1998|英国|大提琴是种悲伤的乐器。
+188|赛德克·巴莱 / 賽德克·巴萊|http://movie.douban.com/subject/3993559/|8.5|45629|魏德圣 Te-Sheng Wei|林庆台 Ching-tai Lin / 马志翔 Zhixiang...|2012|台湾|台湾土著版《勇敢的心》。
+189|费城故事 / Philadelphia|http://movie.douban.com/subject/1293145/|8.5|34447|Jonathan Demme|Tom Hanks / Denzel Washington / Antonio Ban...|1993|美国|活着的每一刻，都异常美丽。
+190|蝙蝠侠：黑暗骑士崛起 / The Dark Knight Rises|http://movie.douban.com/subject/3395373/|8.4|128144|克里斯托弗·诺兰 Christopher Nolan|克里斯蒂安·贝尔 Christ...|2012|美国 英国|诺兰就是保证。
+191|里约大冒险 / Rio|http://movie.douban.com/subject/3731581/|8.4|139186|卡洛斯·沙尔丹哈 Carlos Saldanha|杰西·艾森伯格 Jesse Eise...|2011|美国|一只Geek鸟和一只女王鸟的闹腾恋爱故事。
+192|这个男人来自地球 / The Man from Earth|http://movie.douban.com/subject/2300586/|8.4|68766|Richard Schenkman|David Lee Smith / Tony Todd / John Billi...|2007|美国|科幻真正的魅力不是视觉效果能取代的。
+193|美国X档案 / American History X|http://movie.douban.com/subject/1293527/|8.5|33523|托尼·凯耶 Tony Kaye|爱德华·诺顿 Edward Norton / 爱德华·...|1998|美国|憎恨是包袱。
+194|禁闭岛 / Shutter Island|http://movie.douban.com/subject/2334904/|8.4|164751|Martin Scorsese|Leonardo DiCaprio / Mark Ruffalo / Michell...|2010|美国|昔日翩翩少年，今日大腹便便。
+195|卑鄙的我 / Despicable Me|http://movie.douban.com/subject/3287562/|8.4|122785|皮艾尔·柯芬 Pierre Coffin / 克里斯·雷纳德 Chris Renaud|...|2010|美国|Mr. I Don't Care其实也有Care的时候。
+196|怪兽电力公司 / Monsters, Inc.|http://movie.douban.com/subject/1291579/|8.4|93275|彼特·道格特 Pete Docter / 大卫·斯沃曼 David Silverman|约...|2001|美国|不要给它起名字，起了名字就有感情了。
+197|帝企鹅日记 / La marche de l'empereur|http://movie.douban.com/subject/1369747/|8.5|46351|吕克·雅克 Luc Jacquet|查尔斯·贝尔林 Charles Berling / 罗...|2005|法国|最冷的地方，有最温暖的感情。
+198|曾经 / Once|http://movie.douban.com/subject/2053515/|8.4|112212|约翰·卡尼 John Carney|格伦·汉塞德 Glen Hansard / 玛可塔...|2007|爱尔兰|有些幸福无关爱情。
+199|天水围的日与夜 / 天水圍的日與夜|http://movie.douban.com/subject/3077668/|8.4|45663|许鞍华 Ann Hui|鲍起静  Hee Ching Paw / 陈丽云 / 梁进龙 Jun...|2008|香港|琐碎便是生活。
+200|出租车司机 / Taxi Driver|http://movie.douban.com/subject/1292222/|8.4|47812|Martin Scorsese|Robert De Niro / Jodie Foster / Cybill She...|1976|美国|在每一个城市，都有独行者。
+201|英国病人 / The English Patient|http://movie.douban.com/subject/1291853/|8.4|100129|安东尼·明格拉 Anthony Minghella|拉尔夫·费因斯 Ralph Fien...|1996|美国 英国|In memory, love lives forever...
+202|月球 / Moon|http://movie.douban.com/subject/3073124/|8.4|66796|Duncan Jones|Sam Rockwell / Kevin Spacey / Dominique McEll...|2009|英国|2009媲美《第九区》的又一部科幻神作。
+203|倩女幽魂|http://movie.douban.com/subject/1297447/|8.4|108458|程小东 Siu-Tung Ching|张国荣 Leslie Cheung / 王祖贤 Joey W...|1987|香港|两张绝世的脸。
+204|猫鼠游戏 / Catch Me If You Can|http://movie.douban.com/subject/1305487/|8.4|79449|Steven Spielberg|莱昂纳多·迪卡普里奥 Leonardo DiCaprio / ...|2002|美国|骗子大师和执著警探的你追我跑故事。
+205|香水 / Perfume: The Story of a Murderer|http://movie.douban.com/subject/1760622/|8.3|137091|Tom Tykwer|Ben Whishaw / Alan Rickman / Rachel Hurd-Wood|2006|德国 法国 西班牙 美国|一个单凭体香达到高潮的男人。
+206|爱在暹罗 / รักแห่งสยาม|http://movie.douban.com/subject/2365260/|8.3|135273|Chukiat Sakveerakul|Witwisit Hiranyawongkul / Mario Maurer...|2007|泰国|把爱放在心底，有爱就有希望。
+207|开心家族 / 헬로우 고스트|http://movie.douban.com/subject/6019180/|8.4|63340|金英卓|车太贤 Tae-hyun Cha / 高昌锡 Chang-Seok Ko / 张英南...|2010|韩国|让人又哭又笑的“鬼片”。
+208|枪火 / 鎗火|http://movie.douban.com/subject/1300741/|8.4|37331|杜琪峰|吴镇宇 / 任达华 / 黃秋生|1999|香港|
+209|美国丽人 / American Beauty|http://movie.douban.com/subject/1292062/|8.3|94765|萨姆·门德斯 Sam Mendes|凯文·史佩西 Kevin Spacey / 安妮特...|1999|美国|每个人的内心都是深不可测的大海。
+210|新龙门客栈|http://movie.douban.com/subject/1292287/|8.3|92796|李惠民 Raymond Lee (II) / 程小东 Siu-Tung Ching|张曼玉 Mag...|1992|香港 中国大陆|嬉笑怒骂，调风动月。
+211|源代码 / Source Code|http://movie.douban.com/subject/3075287/|8.3|209753|邓肯·琼斯 Duncan Jones|杰克·吉伦哈尔 Jake Gyllenhaal / ...|2011|法国 美国|邓肯·琼斯继《月球》之后再度奉献出一部精彩绝伦的科幻佳作。
+212|谍影重重 / The Bourne Identity|http://movie.douban.com/subject/1304102/|8.3|86080|Doug Liman|Matt Damon / Franka Potente / Chris Cooper|2002|美国 德国 捷克|
+213|遗愿清单 / The Bucket List|http://movie.douban.com/subject/1867345/|8.4|51225|罗伯·莱纳 Rob Reiner|杰克·尼科尔森 Jack Nicholson / 摩根...|2008|美国|用剩余不多的时间，去燃烧整个生命。
+214|全金属外壳 / Full Metal Jacket|http://movie.douban.com/subject/1300055/|8.5|31000|Stanley Kubrick|Adam Baldwin / Matthew Modine / Vincent D'...|1987|英国 美国|英文脏话大全。
+215|蓝色大门 / 藍色大門|http://movie.douban.com/subject/1308575/|8.3|164994|易智言 Chih-yen Yee|桂纶镁 Lunmei Kwai / 陈柏霖 Bo-lin Che...|2002|台湾 法国|青春的窃窃私语。
+216|时时刻刻 / The Hours|http://movie.douban.com/subject/1305666/|8.4|42016|Stephen Daldry|Nicole Kidman / Julianne Moore / Meryl Streep|2002|美国 英国|那些被自我侵蚀得无路可逃的年月。
+217|蓝白红三部曲之白 / Trois couleurs: Blanc|http://movie.douban.com/subject/1292049/|8.5|30571|克日什托夫·基耶斯洛夫斯基 Krzysztof Kieslowski|泽比纽·扎...|1994|法国 波兰 瑞士|
+218|廊桥遗梦 / The Bridges of Madison County|http://movie.douban.com/subject/1293929/|8.4|49237|Clint Eastwood|Clint Eastwood / Meryl Streep / Annie Corley|1995|美国|这样确切的爱，一生只有一次。
+219|冰川时代 / Ice Age|http://movie.douban.com/subject/1291578/|8.3|142908|卡洛斯·沙尔丹哈 Carlos Saldanha / 克里斯·韦奇 Chris Wedge|主演...|2002|美国|松鼠才是角儿。
+220|速度与激情5 / Fast Five|http://movie.douban.com/subject/4286017/|8.3|114096|林诣彬 Justin Lin|范·迪塞尔 Vin Diesel / 保罗·沃克 Paul ...|2011|美国|爆米花动作电影新标杆，让你肾上腺激素爆发。
+221|歌剧魅影 / The Phantom of the Opera|http://movie.douban.com/subject/1291554/|8.3|72749|Joel Schumacher|Gerard Butler / Emmy Rossum / Patrick Wilson|2004|美国 英国|摘下残缺的面具往往比真实的脸更令爱情动容。
+222|变脸 / Face/Off|http://movie.douban.com/subject/1292659/|8.3|114536|吴宇森 John Woo|约翰·特拉沃尔塔 John Travolta / 尼古拉斯...|1997|美国|当发哥的风衣、墨镜出现在了凯奇身上⋯⋯
+223|岁月的童话 / おもひでぽろぽろ|http://movie.douban.com/subject/1291588/|8.4|35374|高畑勋 Isao Takahata|今井美树 Miki Imai / 柳叶敏郎 Toshir...|1991|日本|
+224|夜访吸血鬼 / Interview with the Vampire: The Vampire Chronicles|http://movie.douban.com/subject/1299327/|8.3|112235|尼尔·乔丹 Neil Jordan|布拉德·皮特 Brad Pitt / 汤姆·克鲁...|1994|美国|漫延着淡淡血腥气的优雅。
+225|无耻混蛋 / Inglourious Basterds|http://movie.douban.com/subject/1438652/|8.3|105348|Quentin Tarantino|布拉德·皮特 Brad Pitt / 梅拉尼·罗兰 M...|2009|美国 德国|昆汀同学越来越变态了，比北野武还杜琪峰。
+226|千年女优 / 千年女優|http://movie.douban.com/subject/1307394/|8.4|36054|今敏 Satoshi Kon|小山茉美 Mami Koyama / 饭冢昭三 / 折笠富...|2001|日本|
+227|梦旅人 / PicNic|http://movie.douban.com/subject/1301948/|8.3|45151|岩井俊二 Shunji Iwai|恰拉 Chara / 浅野忠信 Tadanobu Asano ...|1996|日本|围墙之上的世界，属于天使或者魔鬼
+228|国王的演讲 / The King's Speech|http://movie.douban.com/subject/4023638/|8.2|175696|汤姆·霍珀 Tom Hooper|柯林·菲尔斯 Colin Firth / 杰弗里·...|2010|英国 澳大利亚 美国|达西敢不敢再记得大明湖畔的伊丽莎白点。
+229|走出非洲 / Out of Africa|http://movie.douban.com/subject/1291840/|8.4|34382|西德尼·波拉克 Sydney Pollack|梅丽尔·斯特里普 Meryl Stree...|1985|美国|如被挂在枝梢上那一口袋里的风。
+230|断背山 / Brokeback Mountain|http://movie.douban.com/subject/1418834/|8.2|151920|李安 Ang Lee|希斯·莱杰 Heath Ledger / 杰克·吉伦哈尔 Jake...|2005|加拿大 美国|每个人心中都有一座断背山。
+231|阿郎的故事|http://movie.douban.com/subject/1293315/|8.4|33457|杜琪峰|周润发 / 张艾嘉 / 黄坤玄|1989|香港|爱上浪子就像爱上大海，汹涌澎湃一望无际痛快并存。
+232|老男孩 / 올드보이|http://movie.douban.com/subject/1308865/|8.3|54309|朴赞郁|崔岷植 / 姜惠贞 / 刘智泰|2003|韩国|你笑，世界和你一起笑；你哭，只有你一个人哭。
+233|黑暗中的舞者 / Dancer in the Dark|http://movie.douban.com/subject/1291562/|8.3|49917|拉斯·冯·提尔 Lars von Trier|比约克 Björk / 凯瑟琳·德...|2000|丹麦 西班牙 阿根廷 德国 荷兰 意大利 美国 英国 法国 瑞典 芬兰 冰岛 挪威|无处安放的绝望。
+234|黑鹰坠落 / Black Hawk Down|http://movie.douban.com/subject/1291824/|8.3|53206|雷德利·斯科特 Ridley Scott|乔什·哈奈特 Josh Hartnett / ...|2002|美国|
+235|那些年，我们一起追的女孩 / 那些年，我們一起追的女孩|http://movie.douban.com/subject/4920528/|8.2|275630|九把刀 Giddens|柯震东 Ko Chen Tung / 陈妍希 Michelle Chen ...|2011|台湾|青春的阵痛就是，女孩永远比同龄男生更成熟。
+236|桃姐|http://movie.douban.com/subject/5977835/|8.2|101962|许鞍华 Ann Hui|叶德娴 Deannie Yip / 刘德华 Andy Lau / 秦海...|2012|香港 中国大陆|温馨小品，哀而不伤。
+237|辛普森一家 / The Simpsons Movie|http://movie.douban.com/subject/1851906/|8.3|45361|David Silverman|Dan Castellaneta / Nancy Cartwright / Juli...|2007|美国|人致贱则无敌。
+238|初恋这件小事 / สิ่งเล็กเล็กที่เรียกว่า...รัก|http://movie.douban.com/subject/4739952/|8.2|231571|Puttipong Promsaka Na Sakolnakorn / Wasin pokpong|马里奥·...|2010|泰国|黑小鸭速效美白记。
+239|导盲犬小Q / クイール|http://movie.douban.com/subject/1316572/|8.2|70184|崔洋一|小林薰 / 椎名桔平 / 香川照之|2004|日本|宠物的意义在于化解人的孤独。
+240|角斗士 / Gladiator|http://movie.douban.com/subject/1293530/|8.2|72809|Ridley Scott|Russell Crowe / Joaquin Phoenix / Connie Nielsen|2000|英国 美国|罗马斗兽场的鸦雀无声，久久停留在这样的肃穆中。
+241|艺术家 / The Artist|http://movie.douban.com/subject/6097775/|8.3|39052|迈克尔·哈扎纳维希乌斯 Michel Hazanavicius|让·杜雅尔丹 Je...|2011|法国 比利时|别有幽愁暗恨生，此时无声胜有声。
+242|傲慢与偏见 / Pride & Prejudice|http://movie.douban.com/subject/1418200/|8.2|145475|乔·怀特 Joe Wright|凯拉·耐特丽 Keira Knightley / 马修·...|2005|英国|爱是摈弃傲慢与偏见之后的曙光。
+243|两生花 / La double vie de Véronique|http://movie.douban.com/subject/1291877/|8.3|39479|克日什托夫·基耶斯洛夫斯基 Krzysztof Kieslowski|伊莲娜·雅...|1991|法国 挪威 波兰|花开两朵，各表一枝。
+244|钢的琴|http://movie.douban.com/subject/4876722/|8.2|93206|张猛 Meng Zhang|王千源 Qianyuan Wang / 秦海璐 Hailu Qin / ...|2011|中国大陆|比想象更荒诞的，是他们那个卑微的梦。
+245|荒岛余生 / Cast Away|http://movie.douban.com/subject/1298653/|8.2|59292|罗伯特·泽米吉斯 Robert Zemeckis|汤姆·汉克斯 Tom Hanks / ...|2000|美国|一个人的独角戏。
+246|血钻 / Blood Diamond|http://movie.douban.com/subject/1428175/|8.3|56818|Edward Zwick|Leonardo DiCaprio / Jennifer Connelly / Djimo...|2006|美国 德国|
+247|了不起的狐狸爸爸 / Fantastic Mr. Fox|http://movie.douban.com/subject/1759386/|8.2|56526|Wes Anderson|George Clooney / Meryl Streep / Jason Schwart...|2009|美国|了不起的Wes Anderson.
+248|盗火线 / Heat|http://movie.douban.com/subject/1295686/|8.3|39384|迈克尔·曼 Michael Mann|阿尔·帕西诺 Al Pacino / 罗伯特·...|1995|美国|两头狮子的对决，精彩而无奈的猫鼠游戏。
+249|黑客帝国3：矩阵革命 / The Matrix Revolutions|http://movie.douban.com/subject/1302467/|8.2|71100|Andy Wachowski / Larry Wachowski|Keanu Reeves / Laurence F...|2003|美国 澳大利亚|
+250|罗拉快跑 / Lola rennt|http://movie.douban.com/subject/1292275/|8.2|98426|汤姆·提克威 Tom Tykwer|弗兰卡·波坦特 Franka Potente / 莫...|1998|德国|每一秒你都在改变世界。
