@@ -8,7 +8,9 @@ import urllib2
 import string
 import bs4
 import time
+import os
 
+os.mkdir('doc/detail')
 origin_url = r'http://movie.douban.com/top250?format=text'
 
 while True:
