@@ -42,3 +42,5 @@ for (movie, info) in movies_infos:
     record = '|'.join([rating, name, detail_url, rating_score, rating_num,
                        director, actors, year, area, brief_comment]) + '\n'
     record_file.write(record.encode('utf-8'))
+
+record_file.close()
