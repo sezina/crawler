@@ -10,7 +10,10 @@ import bs4
 import time
 import os
 
-os.mkdir('doc/detail')
+
+if not os.path.exists('doc/detail'):
+    os.mkdir('doc/detail')
+
 origin_url = r'http://movie.douban.com/top250?format=text'
 
 while True:
