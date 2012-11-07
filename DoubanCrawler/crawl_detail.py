@@ -80,7 +80,7 @@ for url in movie_urls:
 
     print "Finish crawl rating info"
 
-    tags = soup.select('.db-tags-section')[0].select('a')
+    tags = soup.select('#db-tags-section')[0].select('a')
     wrt_string = '|'.join([tag.text.strip() for tag in tags]) + '\n\n'
     detail_file.write(wrt_string.encode('utf-8'))
 
