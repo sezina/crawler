@@ -8,11 +8,6 @@ import urllib2
 from bs4 import BeautifulSoup
 
 
-
-def show(*args):
-    for arg in args:
-        print arg
-
 url = r'http://movie.douban.com/top250?format=text'
 record_file = open('doc/top250.txt', 'w')
 
@@ -38,8 +33,8 @@ for (movie, info) in movies_infos:
     director_actor = info_list[0].split(u'\xa0')
     director = director_actor[0].split(':')[-1].strip()
     actors = director_actor[-1].split(':')[-1].strip()
-
     area = info_list[-1].split('/')[-1].strip()
+
     brief_comment = ""
     if info.select('.inq'):
         brief_comment = info.select('.inq')[0].text.strip()
@@ -47,7 +42,3 @@ for (movie, info) in movies_infos:
     record = '|'.join([rating, name, detail_url, rating_score, rating_num,
                        director, actors, year, area, brief_comment]) + '\n'
     record_file.write(record.encode('utf-8'))
-    print record
-  #  show(rating, detail_url, name, year, rating_score, rating_num,
-   #         director, actors, area, brief_comment)
-
