@@ -14,9 +14,9 @@ record_file = open('doc/top250.txt', 'w')
 while True:
     try:
         html = urllib2.urlopen(url).read()
-        break;
+        break
     except:
-        continue;
+        continue
 
 soup = BeautifulSoup(html)
 movies_infos = zip(soup.select('.item'), soup.select('.info'))
@@ -28,7 +28,7 @@ for (movie, info) in movies_infos:
     year = movie.select('.year')[0].text
     rating_score = movie.select('em')[0].text
     rating_num = movie.select('td[headers="m_rating_num"]')[0].text.strip()
-    
+
     info_list = info.select('p')[0].text.strip().split('\n')
     director_actor = info_list[0].split(u'\xa0')
     director = director_actor[0].split(':')[-1].strip()
