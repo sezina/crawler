@@ -11,10 +11,15 @@ import time
 import os
 
 
+if not os.path.exists('doc'):
+    os.mkdir('doc')
+
 if not os.path.exists('doc/detail'):
     os.mkdir('doc/detail')
 
 origin_url = r'http://movie.douban.com/top250?format=text'
+
+crawl_count = 0
 
 while True:
     try:
@@ -142,6 +147,10 @@ for url in movie_urls:
         while True:
             try:
                 html = urllib2.urlopen(comment_url).read()
+                crawl_count += 1
+                if crawl_count > 2300:
+                    crawl_count %= 2300
+                    time.sleep(20 * 60)
                 break
             except:
                 time.sleep(3)
