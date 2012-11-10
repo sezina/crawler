@@ -19,8 +19,6 @@ if not os.path.exists('doc/detail'):
 
 origin_url = r'http://movie.douban.com/top250?format=text'
 
-crawl_count = 0
-
 while True:
     try:
         html = urllib2.urlopen(origin_url)
@@ -57,13 +55,26 @@ for url in movie_urls:
     year = soup.select('h1 > span')[1].text.strip('()')
 
     infos = soup.select('#info')[0]
+
+    director = infos.select('a[rel="v:directedBy"]')[0].text.strip()
+    playwriters = infos.select('span')[2].text.split(':')[-1].strip()
+    actors = '/'.join([star.text.strip()
+                       for star in infos.select('a[rel="v:starring"]')])
+    movie_type = '/'.join([genre.text.strip()
+                     for genre in infos.select('span[property="v:genre"]')])
+
     info_text = infos.text.strip().split('\n')
+    nickname = info_text[-2].split(':')[-1].strip()
+    length = info_text[-3].split(':')[-1].strip()
+    onscreen = info_text[-4].split(':')[-1].strip()
+    lang = info_text[-5].split(':')[-1].strip()
+    area = info_text[-6].split(':')[-1].strip()
 
-    (director, playwriters, actors,
-     movie_type, area, lang, onscreen, length,
-     nickname, drop) = [t.split(':')[-1].strip() for t in info_text]
+    #(director, playwriters, actors,
+    # movie_type, area, lang, onscreen, length,
+    # nickname, drop) = [t.split(':')[-1].strip() for t in info_text]
 
-    imdb_link = infos.select('a[rel="nofollow"]')[0]['href']
+    imdb_link = infos.select('a[rel="nofollow"]')[-1]['href']
 
     movie_info_list = ["%i" % rating_pos, name, year, director,
                        playwriters, actors, movie_type, area, lang,
@@ -139,6 +150,7 @@ for url in movie_urls:
     wrt_string = "%i" % comments_num + '\n'
     detail_file.write(wrt_string.encode('utf-8'))
 
+    crawl_count = 0
     for i in range(comments_page):
         if i % 50 == 0:
             time.sleep(3)
@@ -147,14 +159,17 @@ for url in movie_urls:
         while True:
             try:
                 html = urllib2.urlopen(comment_url).read()
+                time.sleep(1)
                 crawl_count += 1
-                if crawl_count > 2300:
-                    crawl_count %= 2300
-                    time.sleep(20 * 60)
                 break
             except:
                 time.sleep(3)
                 continue
+
+        if crawl_count >= 150:
+            time.sleep(20 * 60)
+            break;
+
         soup = bs4.BeautifulSoup(html)
         comments = soup.select('.comment')
         for comment in comments:
